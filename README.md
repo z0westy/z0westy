@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Zahar%20Dzirko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/z0westy" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@zahardzirko-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-@z0westy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://leetcode.com/u/z0westy/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-zahardzirko-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-z0westy-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
 </p>
 
@@ -57,7 +57,7 @@ I am constantly striving to explore new technologies and solve complex problems.
 | :--- | :--- |
 | **LinkedIn** | [zahar-dzirko-0593413b2](https://www.linkedin.com/in/zahar-dzirko-0593413b2/) |
 | **Telegram** | [@z0westy](https://t.me/z0westy) |
-| **LeetCode** | [zahardzirko](https://leetcode.com/u/z0westy/) |
+| **LeetCode** | [z0westy](https://leetcode.com/u/z0westy/) |
 
 > ⚡ **Fun Fact:** I believe the best defense is a deep understanding of how a system works at all levels, from high-level business logic down to machine code.
 
