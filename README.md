@@ -42,15 +42,6 @@ I am constantly striving to explore new technologies and solve complex problems.
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakhar-dzirko&show_icons=true&hide=&count_private=true&title_color=3388ff&text_color=ffffff&icon_color=3388ff&bg_color=0d1117&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakhar-dzirko&langs_count=10&title_color=3388ff&text_color=ffffff&icon_color=3388ff&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 How to reach me
 
 | Platform | Link |
