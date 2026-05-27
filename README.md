@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/zahar-dzirko-0593413b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Zahar%20Dzirko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/zahardzirko" target="_blank">
+  <a href="https://t.me/z0westy" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@zahardzirko-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://leetcode.com/u/zahardzirko/" target="_blank">
+  <a href="https://leetcode.com/u/z0westy/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-zahardzirko-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
 </p>
@@ -26,7 +26,7 @@ I am constantly striving to explore new technologies and solve complex problems.
 
 *   🌍  I'm based in Minsk, Belarus
 *   📫  You can reach me on **Telegram** or **LinkedIn**
-*   🧠  I'm currently learning advanced **Machine Learning** and **Cyber Security** techniques
+*   🧠  I'm currently learning advanced **Backend Development** and **Cyber Security** techniques
 *   💻  I regularly solve algorithmic problems on **LeetCode**
 
 ---
@@ -56,8 +56,8 @@ I am constantly striving to explore new technologies and solve complex problems.
 | Platform | Link |
 | :--- | :--- |
 | **LinkedIn** | [zahar-dzirko-0593413b2](https://www.linkedin.com/in/zahar-dzirko-0593413b2/) |
-| **Telegram** | [@zahardzirko](https://t.me/zahardzirko) |
-| **LeetCode** | [zahardzirko](https://leetcode.com/u/zahardzirko/) |
+| **Telegram** | [@z0westy](https://t.me/z0westy) |
+| **LeetCode** | [zahardzirko](https://leetcode.com/u/z0westy/) |
 
 > ⚡ **Fun Fact:** I believe the best defense is a deep understanding of how a system works at all levels, from high-level business logic down to machine code.
 
