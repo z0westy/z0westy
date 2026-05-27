@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-I am a student at **Belarusian State University of Informatics and Radioelectronics (BSUIR)**, pursuing a bachelor's degree in Software Engineering. I am deeply passionate about backend development and cybersecurity.
+I'm a developer ready to solve any of your problems. I'm currently studying at the **Belarusian State University of Informatics and Radioelectronics (BSUIR)**, pursuing a bachelor's degree in software development. I'm deeply interested in backend application development and cybersecurity.
 
 I am constantly striving to explore new technologies and solve complex problems. I am open to discussing projects and opportunities for collaboration.
 
